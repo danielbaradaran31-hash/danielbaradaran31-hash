@@ -1,7 +1,7 @@
 
 👋 Hi! I'm Daniel Baradaran  
 
-Welcome to my GitHub profile! ** Alle meine Projekte sind deployt und können mit nur einem Klick angesehen werden – ein Download ist nicht erforderlich.**
+Welcome to my GitHub profile! ** Alle meine Projekte sind deployt und können mit nur einem Klick in repositories angesehen werden – ein Download ist nicht erforderlich.**
 
 📍 Location: Eppingen, Germany 🇩🇪  
 
